@@ -51,5 +51,3 @@ local Translations = {
 }
 
 Lang = Locale:new({phrases = Translations})
-
-Lang:t("log_5")
